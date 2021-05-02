@@ -4,3 +4,22 @@ background-color: pink;
 .other-bg{
 background-color: cyan;
 }
+.same-line{
+display: flex;
+}
+.white-bg{
+background-color: white;
+}
+.center{
+text-align: center;
+}
+.border{
+border: 1px solid black;
+}
+a :hover{
+color: black;
+}
+.top-bar{
+position: fixed;
+width: 100%;
+}

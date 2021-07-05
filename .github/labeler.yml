@@ -5,6 +5,6 @@ CSS:
 JavaScript:
 - js/**/*
 HTML:
-- *.html
+- index.html
 GitHub:
 - .github/**/*

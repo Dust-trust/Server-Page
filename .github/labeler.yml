@@ -1,0 +1,10 @@
+enhancement:
+- '*'
+CSS:
+- css/**/*
+JavaScript:
+- js/**/*
+HTML:
+- *.html
+GitHub:
+- .github/**/*

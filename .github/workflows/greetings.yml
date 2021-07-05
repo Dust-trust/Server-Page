@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: "Thanks for the report on this bug. It will be fixed as soon as possible."
+        pr-message: "Thanks for sumbitting source code to this project. I appreicate it, as I am currently the only dev. Have a nice day, and I'll check it out as soon as possible."

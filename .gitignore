@@ -1,3 +1,6 @@
 # Editors/IDES
 
 .vscode/
+
+# sass
+scss/

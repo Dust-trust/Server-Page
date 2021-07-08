@@ -1,11 +1,12 @@
 :root {
   font-size: 16px;
   background-color: pink;
+  text-align: center;
 }
 
 nav {
-  top: -10000px;
-  left: -10000px;
+  top: -10000px !important;
+  left: -10000px !important;
   background-color: white;
   border: solid black;
   border-radius: 10px;

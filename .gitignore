@@ -5,6 +5,7 @@
 # sass
 scss/
 *.map
+*.scss
 
 # Node.js
 node_modules/

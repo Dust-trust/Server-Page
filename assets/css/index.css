@@ -11,4 +11,12 @@ nav {
   border-radius: 10px;
 }
 
+nav a {
+  color: black;
+}
+
+nav a:hover {
+  color: blue;
+}
+
 /*# sourceMappingURL=index.css.map */

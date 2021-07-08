@@ -1,6 +1,8 @@
 const json = {
-  "project-name": "Server-Page",
-  libraries: ["bootstrap"],
+  projectname: "Server-Page",
+  libraries: ["bootstrap", "scss"],
 };
 const libraries = json.libraries;
-const project = json.project;
+const bootstrap = libraries[0];
+const scss = libraries[1];
+const project = json.projectname;

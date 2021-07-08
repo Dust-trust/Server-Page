@@ -16,4 +16,8 @@ nav a {
   color: blue;
 }
 
+footer {
+  bottom: -10000px !important;
+}
+
 /*# sourceMappingURL=index.css.map */

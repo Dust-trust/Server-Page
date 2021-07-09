@@ -1,1 +1,4 @@
-//JavaScript coming soon lol
+// Constants
+const bootstrap = require("bootstrap");
+const devicon = require("devicon");
+const sass = require("sass");

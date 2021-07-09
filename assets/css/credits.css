@@ -1,0 +1,21 @@
+:root {
+  font-size: 16px;
+  background-color: pink;
+}
+
+nav {
+  top: -10000px !important;
+  left: -10000px !important;
+  width: 30%;
+  background-color: white;
+  border: solid black;
+  border-radius: 10px;
+}
+
+a {
+  color: blue;
+}
+
+footer {
+  bottom: -10000px !important;
+}

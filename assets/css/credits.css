@@ -26,4 +26,10 @@ footer {
   flex-direction: column;
 }
 
+.libraries {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+}
+
 /*# sourceMappingURL=credits.css.map */

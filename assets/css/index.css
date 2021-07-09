@@ -4,8 +4,8 @@
 }
 
 nav {
-  top: -10000px !important;
-  left: -10000px !important;
+  top: -10000px;
+  left: -10000px;
   width: 30%;
   background-color: white;
   border: solid black;
@@ -17,5 +17,7 @@ a {
 }
 
 footer {
-  bottom: -10000px !important;
+  bottom: -10000px;
 }
+
+/*# sourceMappingURL=index.css.map */

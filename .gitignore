@@ -7,6 +7,7 @@ scss/
 *.map
 *.scss
 
-# Node.js
+# js
 node_modules/
 package-lock.json
+dist/

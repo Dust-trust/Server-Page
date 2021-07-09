@@ -28,6 +28,9 @@ footer {
 
 .libraries {
   text-align: center;
+  justify-content: center;
+  justify-self: center;
+  justify-items: center;
   display: flex;
   flex-direction: row;
 }

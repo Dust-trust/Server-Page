@@ -4,8 +4,8 @@
 }
 
 nav {
-  top: -10000px !important;
-  left: -10000px !important;
+  top: -10000px;
+  left: -10000px;
   width: 30%;
   background-color: white;
   border: solid black;
@@ -17,5 +17,25 @@ a {
 }
 
 footer {
-  bottom: -10000px !important;
+  bottom: -10000px;
 }
+
+.people {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.syd {
+  content: "Syd, the epic owner";
+}
+
+.sayo {
+  content: "Sayo, the owner's boyfriend";
+}
+
+.theblobscp {
+  content: "The Blob SCP, the nerd who made this website";
+}
+
+/*# sourceMappingURL=credits.css.map */

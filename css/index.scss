@@ -1,0 +1,26 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+$font-size: 16px;
+$nav-pos: -10000px;
+$border: solid black;
+$link: blue;
+:root {
+    font-size: $font-size;
+    background-color: var(--bs-pink);
+}
+
+nav {
+    top: $nav-pos;
+    left: $nav-pos;
+    width: 30%;
+    background-color: white;
+    border: $border;
+    border-radius: 10px;
+}
+
+a {
+    color: $link;
+}
+
+footer {
+    bottom: $nav-pos;
+}

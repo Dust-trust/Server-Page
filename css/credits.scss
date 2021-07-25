@@ -1,0 +1,16 @@
+@use "index.scss";
+$align: center;
+
+.people {
+    text-align: $align;
+    display: flex;
+    flex-direction: column;
+}
+.libraries {
+    text-align: $align;
+    justify-content: $align;
+    justify-self: $align;
+    justify-items: $align;
+    display: flex;
+    flex-direction: row;
+}

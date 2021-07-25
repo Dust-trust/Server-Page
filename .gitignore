@@ -3,9 +3,8 @@
 .vscode/
 
 # sass
-scss/
 *.map
-*.scss
+
 
 # js
 node_modules/

@@ -7,5 +7,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/theblobscp/Server-Page.git"
+  },
+  "scripts": {
+    "sass": "sass --style compressed css"
   }
 }
